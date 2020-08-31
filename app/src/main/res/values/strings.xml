@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">CurrencyConverter</string>
+  <string name="input_hint">Please enter the amount of the currency</string>
+  <string name="search_msg">Trying to fetch rate</string>
+</resources>
